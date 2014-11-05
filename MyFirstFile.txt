@@ -2,5 +2,6 @@ This is a first draft!
 
 
 Feature X = {
-	boiler plate
+	code for Feature X
+	code line 2
 }
