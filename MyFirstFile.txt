@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a first draft!
 
 
@@ -5,3 +6,8 @@ Feature X = {
 	code for Feature X
 	code line 2
 }
+=======
+This is a second draft!
+
+...And here are some changes.
+>>>>>>> master
